@@ -16,7 +16,7 @@ La versión de desarrollo actual es **0.3.1** (Android, paquete de producción `
 - APK QA: generada por CI, solo para pruebas.
 - APK de producción: compilada sin firmar por CI; pendiente de firma local con el certificado permanente y prueba de instalación en dispositivo físico.
 
-Consulta el [estado de publicación y las verificaciones](RELEASE_STATUS.md).
+Consulta el [historial de cambios](CHANGELOG.md) y el [estado de publicación y las verificaciones](RELEASE_STATUS.md).
 
 ## Privacidad y seguridad
 
