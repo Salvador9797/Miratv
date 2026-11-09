@@ -16,10 +16,11 @@
 ### Verificación
 - Pruebas unitarias y validación de endpoints completadas en GitHub Actions.
 - Prueba instrumental de reproducción Media3 completada en emulador Android.
-- La APK de producción debe firmarse con la clave permanente y probarse en un dispositivo físico antes de publicarse.
+- La APK de producción quedó alineada y firmada con Android APK Signature Scheme v2 y v3; firma, certificado, paquete y versión verificados.
+- La instalación y prueba en un dispositivo Android físico, y la publicación del binario en GitHub Releases, siguen pendientes.
 
 ### Notas
 - Esta versión no ofrece un catálogo comercial completo.
 - La disponibilidad depende de las licencias y de cada fuente.
 - No se incluyen mecanismos para eludir DRM, paywalls ni controles de acceso.
-- La versión 0.3.1 todavía no está publicada como APK oficial.
+- La versión 0.3.1 está firmada y preparada; todavía no está adjunta como APK oficial en GitHub Releases.
